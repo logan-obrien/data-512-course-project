@@ -1,0 +1,11 @@
+|date| |"PM10 Total 0-10um STP 24 hr AQI value"| |"Acceptable PM2.5 AQI & Speciation Mass"| |AVG AQI|
+
+
+
+Then
+Somehow group by year and take average --> annual AQI
+
+Then:
+Group by df_fires to get annual smoke estimate average
+
+Plot both
